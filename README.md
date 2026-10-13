@@ -1,6 +1,3 @@
-![titulo del proyecto](../GuitarsLA-ts/Imagenes_Proyecto/logo.svg)
---HOLA
-
 # GuitarLA – React + TypeScript
 
 Tienda de guitarras con carrito de compras hecha con React 19, TypeScript y Vite. Este documento presenta el sistema y explica tanto la arquitectura técnica como las decisiones de desarrollo del frontend.
